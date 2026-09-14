@@ -7,6 +7,9 @@ subject: languages
 course: italian
 programs:
   - english-language
+  - early-french-immersion
+  - late-french-immersion
+  - francophone
 document_language: en-CA
 coverage: core-summary
 status: source-checked
@@ -30,7 +33,7 @@ alignment_verified_on: "2026-09-14"
 
 ## Scope and use
 
-**Programs:** English-language, as a second-language course option. Applicability to other programs has not been established here.
+**Programs:** English-language, Early French Immersion, Late French Immersion, and Francophone. This is a language-course option; the added immersion and Francophone coverage is for elective/additional study where offered. [S4], sections 2(a)-(b), designates the corresponding English and French guides, establishing applicability rather than an extra course requirement or local availability. The program-specific obligations and Grade 6 Late Immersion ELA exception remain as set out in [S3] and the [Languages inventory](../README.md#requirement-and-course-choice).
 
 **Document language:** English, as is the official source. Italian is the target language; this summary does not prescribe classroom language-of-instruction arrangements.
 
@@ -132,7 +135,8 @@ Use the creative-work elaboration's cautions about appropriation and plagiarism.
 
 - **S1:** [Italian 6][S1], Province of British Columbia. Full web standards and embedded elaborations compared with this summary on **2026-09-14**. Source revision not established.
 - **S2:** [Language Education Policy][S2], Province of British Columbia. Board choice and Core French fallback reviewed **2026-09-14**; use [S3] for the governing requirements and exceptions.
-- **S3:** [Required Areas of Learning in an Educational Program Order (M295/95)][S3], Province of British Columbia. Full order reviewed **2026-09-14**. Sections 3–6 set out program-specific language obligations, conditional exceptions, and the local Indigenous-language route; they do not establish additional program applicability for this course.
+- **S3:** [Required Areas of Learning in an Educational Program Order (M295/95)][S3], Province of British Columbia. Full order reviewed **2026-09-14**. Sections 3-6 set out program-specific obligations, conditional exceptions, and the local Indigenous-language route. Section 5 removes the Grade 6 Late Immersion ELA obligation, not permission to offer ELA.
+- **S4:** [Educational Program Guide Order (M231/19)][S4], Province of British Columbia, sections 2(a)-(b): the English Italian 5-9 guide and its French counterpart, *Italien 5-9*, designated for immersion and Francophone programs. Full order reviewed **2026-09-14**. M231/19 replaced M333/99; the asset retains the legacy filename. Guide designation supports elective/additional-study applicability, not a requirement to take this course.
 - **Rights:** Original, condensed English reference, not official wording or an authorized translation. Sources remain subject to [BC Crown copyright](https://www2.gov.bc.ca/gov/content/home/copyright); no source documents or cultural works are reproduced or mirrored.
 
 [Curriculum index](../../../../curriculum-index.md) | [Grade 6 overview](../../README.md) | [Languages inventory](../README.md)
@@ -140,3 +144,4 @@ Use the creative-work elaboration's cautions about appropriation and plagiarism.
 [S1]: https://curriculum.gov.bc.ca/curriculum/languages/6/italian
 [S2]: https://www2.gov.bc.ca/gov/content/education-training/k-12/administration/legislation-policy/public-schools/language-education-policy
 [S3]: https://www2.gov.bc.ca/assets/gov/education/administration/legislation-policy/legislation/schoollaw/e/m295_95.pdf
+[S4]: https://www2.gov.bc.ca/assets/gov/education/administration/legislation-policy/legislation/schoollaw/e/m333_99.pdf

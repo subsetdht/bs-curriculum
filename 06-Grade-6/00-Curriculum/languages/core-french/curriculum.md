@@ -30,7 +30,7 @@ alignment_verified_on: "2026-09-14"
 
 ## Scope and use
 
-**Programs:** English-language. This second-language course is not French Immersion Language Arts or Francophone language arts. Other program applicability is not assigned here.
+**Programs:** English-language. This record remains scoped to the English-language program's Core French option; it is not French Immersion Language Arts or Francophone language arts. Core French cannot satisfy the Francophone requirement for a language other than French under [S3], section 4(b), and is not an extra required course for immersion learners.
 
 **Document language:** English, as is the official source. French is the target language of learning; the summary is not a French-language instructional resource.
 

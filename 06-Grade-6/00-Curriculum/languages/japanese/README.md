@@ -8,7 +8,7 @@
 
 [Japanese 6 curriculum summary](curriculum.md) | [Big Ideas](curriculum.md#big-ideas) | [Curricular Competencies](curriculum.md#curricular-competencies) | [Content](curriculum.md#content)
 
-**Program coverage:** English-language, as a second-language option where offered. Other program applicability has not been established here. See the [course inventory and provincial policy](../README.md#requirement-and-course-choice).
+**Program coverage:** English-language; Early French Immersion; Late French Immersion; Francophone. Coverage for the latter three is for elective/additional study where offered, supported by the guide designation in the record's S4. These labels do not add a required course, replace language arts, or guarantee local availability. See the [course inventory and provincial policy](../README.md#requirement-and-course-choice), including the Grade 6 Late Immersion ELA exception.
 
 **Summary language:** en-CA (English). The official source is in English; Japanese is the language being learned.
 
