@@ -6,7 +6,7 @@
 
 **Official BC entry:** [Korean 7](https://curriculum.gov.bc.ca/curriculum/languages/7/korean)
 
-**Program coverage:** English-language program, when Korean is the selected additional-language course. The course list does not guarantee local provision or require every learner to take every language. See [policy scope and program gaps](../README.md#course-choice-and-policy-scope).
+**Program coverage:** English-language course choice; optional/additional study in Early French Immersion, Late French Immersion, and Francophone programs. The [record's scope](curriculum.md#scope-and-use) cites the Guide Order's explicit French-program designation. This does not require extra enrolment, replace required language arts, or guarantee local availability. See [policy scope and placement](../README.md#course-choice-and-policy-scope).
 
 **Document language:** English (`en-CA`); official source reviewed in English. This does not prescribe English-medium Korean teaching; the record links the ministry's Korean language-of-instruction guidance.
 

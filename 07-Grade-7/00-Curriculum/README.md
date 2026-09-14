@@ -14,6 +14,8 @@ There are **20 source-checked records**: eleven core subject/language-arts-varia
 
 The seven non-language subjects in the table have shared provincial expectations across all four programmes. The [Required Areas Order][S1], sections 1-2, expressly includes Francophone students and prescribes the common subject guides; the [immersion policy][S2] also requires parallel curriculum content. Document language, classroom language, and the language suitability of a resource are different things.
 
+The [Educational Program Guide Order][S4], section 2(b), explicitly designates the eight non-Core-French language guides for Francophone and French Immersion programmes. This supports **optional/additional study**, not extra compulsory enrolment. Reference coverage is **17 records for each pathway**: English-language has eight core records plus nine language choices; each immersion pathway and the reviewed CSF Francophone pathway has nine core records plus eight additional-language options. These are counts of applicable references, not required course loads or local offerings.
+
 ### English-language program
 
 Start with [English Language Arts](english-language-arts/curriculum.md) and the seven shared non-language subjects: **eight core records**. Add the language programme offered by the board; the [Languages landing](languages/README.md) is the navigator for the nine Grade 7 web-catalog choices.
@@ -24,11 +26,15 @@ Section 4(a) of [S1] requires a language other than English in Grades 5-8, subje
 
 Use [regular French Immersion Language Arts 7](french-immersion-language-arts/curriculum.md), [English Language Arts 7](english-language-arts/curriculum.md), and the seven shared subjects: **nine core records**.
 
+The [eight non-Core-French language courses](#language-course-choices) are also source-backed options for additional study, giving this pathway **17 applicable reference records** without adding an enrolment requirement.
+
 English Language Arts is provided from Grade 4 under [S1] and [S2]. The policy recommends 80 percent French and 20 percent English instruction for the relevant elementary years including Grade 7. This is provincial programme guidance, not a subject-by-subject school timetable. Core French does not replace immersion language arts or become a mandatory extra course simply because it appears in Languages.
 
 ### Late French Immersion
 
 Use [French Immersion Language Arts 7T](french-immersion-language-arts/transition-7t/curriculum.md), [English Language Arts 7](english-language-arts/curriculum.md), and the seven shared subjects: **nine core records**.
+
+The [eight non-Core-French language courses](#language-course-choices) are also source-backed options for additional study, giving this pathway **17 applicable reference records** without adding an enrolment requirement.
 
 Grade 7 is normally the second year after entry in Grade 6. The official French compilation identifies `7T` as Grade 7 late immersion. It is a separate variant with actual grade `"7"` and course `transition-7t`, not another grade or the same record as regular 7.
 
@@ -38,7 +44,9 @@ Section 4(c) of [S1] provides for immersion English Language Arts in Grades 4-9;
 
 Use the distinct [Francophone Language Arts 7](francophone-language-arts/curriculum.md) and the seven shared subjects. The reviewed **CSF pathway also includes English Language Arts 7**, making **nine core records**; its provider basis is explained in the separate [CSF context](csf-context.md).
 
-Section 4(b) of [S1] requires a language other than French for Francophone students in Grades 5-8. It does not itself name ELA7 or impose the immersion timetable. CSF's documented first-language English provision is provider delivery, not a new provincial requirement inferred from an English source page. Neither immersion language arts nor Core French replaces first-language Francophone language arts.
+The [eight non-Core-French language courses](#language-course-choices) also have optional/additional-study applicability, giving the reviewed pathway **17 applicable reference records**. Their guide designation does not change CSF's documented English provision or guarantee that another course is locally offered.
+
+Section 4(b) of [S1] requires a language other than French for Francophone students in Grades 5-8. It does not itself name ELA7 or impose the immersion timetable. CSF's documented first-language English provision is provider delivery, not a new provincial requirement inferred from an English source page. Neither immersion language arts nor Core French replaces first-language Francophone language arts, and Core French cannot fulfil the requirement to study a language other than French.
 
 ## Subjects and learning standards
 
@@ -53,7 +61,7 @@ Subject links preserve the established landing pages. Section links open real re
 | Francophone Language Arts | [7](francophone-language-arts/README.md) | Summary available; Francophone first language | [Big Ideas](francophone-language-arts/curriculum.md#big-ideas) / [Curricular Competencies](francophone-language-arts/curriculum.md#curricular-competencies) / [Content](francophone-language-arts/curriculum.md#content) |
 | French Immersion Language Arts, regular | [7](french-immersion-language-arts/README.md) | Summary available; Early French Immersion | [Big Ideas](french-immersion-language-arts/curriculum.md#big-ideas) / [Curricular Competencies](french-immersion-language-arts/curriculum.md#curricular-competencies) / [Content](french-immersion-language-arts/curriculum.md#content) |
 | French Immersion Language Arts, late | [7T](french-immersion-language-arts/transition-7t/README.md) | Summary available; Late French Immersion, actual grade 7 | [Big Ideas](french-immersion-language-arts/transition-7t/curriculum.md#big-ideas) / [Curricular Competencies](french-immersion-language-arts/transition-7t/curriculum.md#curricular-competencies) / [Content](french-immersion-language-arts/transition-7t/curriculum.md#content) |
-| Languages | [7](languages/README.md) | Summary available for all nine catalog courses; English-language course-choice coverage | See [language-course choices](#language-course-choices) |
+| Languages | [7](languages/README.md) | Summary available; nine English-language choices, eight also applicable to optional French-programme study | See [language-course choices](#language-course-choices) |
 | Mathematics | [7](mathematics/README.md) | Summary available; shared | [Big Ideas](mathematics/curriculum.md#big-ideas) / [Curricular Competencies](mathematics/curriculum.md#curricular-competencies) / [Content](mathematics/curriculum.md#content) |
 | Physical and Health Education | [7](physical-and-health-education/README.md) | Summary available; shared; all four competency strands | [Big Ideas](physical-and-health-education/curriculum.md#big-ideas) / [Curricular Competencies](physical-and-health-education/curriculum.md#curricular-competencies) / [Content](physical-and-health-education/curriculum.md#content) |
 | Science | [7](science/README.md) | Summary available; shared | [Big Ideas](science/curriculum.md#big-ideas) / [Curricular Competencies](science/curriculum.md#curricular-competencies) / [Content](science/curriculum.md#content) |
@@ -61,7 +69,7 @@ Subject links preserve the established landing pages. Section links open real re
 
 ## Language-course choices
 
-The [Languages landing](languages/README.md) preserves the course-list entry and documents the full inventory and policy scope. All nine named web courses have separate source-checked records. They establish **English-language programme course-choice coverage**, not additional compulsory courses for every programme. Their English/French catalog rows are editions of the same nine courses, not eighteen choices.
+The [Languages landing](languages/README.md) preserves the course-list entry and documents the full inventory and policy scope. All nine named web courses have separate source-checked records for English-language programme course choices. **Every course below except Core French also applies to optional/additional study in Early French Immersion, Late French Immersion, and Francophone programmes**, supported by [S4], section 2(b). No extra compulsory enrolment or local availability is asserted. Their English/French catalog rows are editions of the same nine courses, not eighteen choices.
 
 | Course landing | Content status | Jump to section |
 | --- | --- | --- |
@@ -109,7 +117,7 @@ Source curriculum revision dates were not established and remain `null`. **2026-
 
 All written summaries are English editions. The reviewed primary sources are English for seventeen records and French for the three French language-arts records; English summaries do not become French classroom materials.
 
-**Remaining scope gaps:** Additional Languages-course applicability or placement in immersion and Francophone programmes is not established by the nine English-pathway records. Locally developed, Indigenous, and other guide-listed language curricula beyond the nine web choices, school-specific ADST module inventories, French-language repository editions, and classroom resources are not populated. These are distinct limits, not inaccessible-source blockers or omissions hidden behind a claim of complete BC-wide coverage.
+**Remaining scope gaps:** Local language-course availability and individual placement are not established by provincial guide designation. Locally developed, Indigenous, and other guide-listed language curricula beyond the nine web choices, school-specific ADST module inventories, French-language repository editions, and classroom resources are not populated. The eight non-Core-French courses' optional French-programme applicability is established; these remaining limits must not be confused with inaccessible sources or a claim of complete BC-wide coverage.
 
 ## Other catalog entries
 
@@ -122,6 +130,7 @@ The [resources](../01-Resources), [tools](../02-Tools), and [additional-content]
 - **S1:** [Required Areas of Learning in an Educational Program Order][S1], Province of British Columbia, sections 1-6. Complete order reviewed **2026-09-14**.
 - **S2:** [Provincial French Immersion policy][S2], parallel content and separate Early/Late language schedules. Reviewed **2026-09-14**.
 - **S3:** [Language Education Policy][S3], board-selected offerings and Core French fallback, read with the current order's exceptions. Reviewed **2026-09-14**.
+- **S4:** [Educational Program Guide Order M231/19][S4], sections 2(a)-(b), especially the eight non-Core-French guides explicitly designated for Francophone and French Immersion programmes. Reviewed **2026-09-14** for optional/additional-study applicability; guide publication dates do not establish revisions of these Grade 7 summaries.
 - **Subject sources:** Each record identifies its authoritative curriculum, locators, actual source language, review date, grade scope, and rights. The [BC curriculum catalog](https://curriculum.gov.bc.ca/curriculum) supplies navigation, not a substitute for reviewing learning standards.
 - **Rights:** Original summaries and explanations with source links, not ministry wording, authorized translations, or mirrored documents. Provincial sources remain subject to [BC copyright](https://www2.gov.bc.ca/gov/content/home/copyright); CSF provider material and cultural works retain their respective rights.
 
@@ -132,3 +141,4 @@ Maintain records, stable landings, and grade/programme navigation together under
 [S1]: https://www2.gov.bc.ca/assets/gov/education/administration/legislation-policy/legislation/schoollaw/e/m295_95.pdf
 [S2]: https://www2.gov.bc.ca/gov/content/education-training/k-12/administration/legislation-policy/public-schools/french-immersion-program
 [S3]: https://www2.gov.bc.ca/gov/content/education-training/k-12/administration/legislation-policy/public-schools/language-education-policy
+[S4]: https://www2.gov.bc.ca/assets/gov/education/administration/legislation-policy/legislation/schoollaw/e/m333_99.pdf

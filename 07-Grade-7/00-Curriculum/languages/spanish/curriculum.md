@@ -7,6 +7,9 @@ subject: languages
 course: spanish
 programs:
   - english-language
+  - early-french-immersion
+  - late-french-immersion
+  - francophone
 document_language: en-CA
 coverage: core-summary
 status: source-checked
@@ -30,7 +33,7 @@ alignment_verified_on: "2026-09-14"
 
 ## Scope and use
 
-**Programs:** English-language, where Spanish is the selected additional-language course. [S2] provides the provincial board-choice framework, not evidence of local availability or a requirement to study all listed languages. Other-program applicability is not established here.
+**Programs:** English-language, Early French Immersion, Late French Immersion, and Francophone. [S2] supports the English-language course-choice framework; [S3] explicitly designates the corresponding French guide for Francophone and French Immersion programs. This supports Spanish as optional/additional study in those programs, not compulsory extra enrolment, a replacement for required language arts, or guaranteed local provision. See the [Languages policy scope](../README.md#course-choice-and-policy-scope) for placement and exceptions.
 
 **Document language:** English (`en-CA`), using the English official source. The subject of learning is Spanish; this reference does not prescribe English as the classroom language.
 
@@ -152,9 +155,11 @@ Stories and artworks need attribution, suitable cultural context, and permission
 
 - **S1:** [Spanish 7][S1], Province of British Columbia. The complete Grade 7 source, including elaborations, was reviewed on **2026-09-14**. Source revision: not established.
 - **S2:** [Language Education Policy][S2], Province of British Columbia. Reviewed **2026-09-14**; supports course-choice and offering scope.
+- **S3:** [Educational Program Guide Order M231/19][S3], sections 2(a)-(b), Spanish 5-9 and Espagnol 5-9. Reviewed **2026-09-14** for the explicit French-program designation and optional/additional-study applicability, not an extra enrolment requirement.
 - **Rights:** Original, condensed English synthesis, not official wording or an authorized translation. The source is subject to [BC Crown copyright](https://www2.gov.bc.ca/gov/content/home/copyright); no blanket Open Government Licence permission is assumed. No curriculum downloads or third-party cultural works are reproduced.
 
 [Curriculum index](../../../../curriculum-index.md) | [Grade 7 overview](../../README.md) | [Languages courses](../README.md)
 
 [S1]: https://curriculum.gov.bc.ca/curriculum/languages/7/spanish
 [S2]: https://www2.gov.bc.ca/gov/content/education-training/k-12/administration/legislation-policy/public-schools/language-education-policy
+[S3]: https://www2.gov.bc.ca/assets/gov/education/administration/legislation-policy/legislation/schoollaw/e/m333_99.pdf

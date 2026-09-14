@@ -7,6 +7,9 @@ subject: languages
 course: korean
 programs:
   - english-language
+  - early-french-immersion
+  - late-french-immersion
+  - francophone
 document_language: en-CA
 coverage: core-summary
 status: source-checked
@@ -30,7 +33,7 @@ alignment_verified_on: "2026-09-14"
 
 ## Scope and use
 
-**Programs:** English-language, where Korean is the selected additional-language course. [S2] establishes the board-choice policy framework, not a guarantee of local availability or a requirement to take every language. Other-program applicability is not established here.
+**Programs:** English-language, Early French Immersion, Late French Immersion, and Francophone. [S2] supports the English-language course-choice framework; [S4] explicitly designates the corresponding French guide for Francophone and French Immersion programs. This supports Korean as optional/additional study in those programs, not compulsory extra enrolment, a replacement for required language arts, or guaranteed local provision. See the [Languages policy scope](../README.md#course-choice-and-policy-scope) for placement and exceptions.
 
 **Document language:** English (`en-CA`), based on English official sources. This is not an English-medium teaching requirement: the Korean introduction [S3] encourages Korean use throughout instruction while allowing support in the prevailing school language when needed.
 
@@ -147,6 +150,7 @@ Stories and cultural work require appropriate attribution and permission. [S3] c
 - **S1:** [Korean 7][S1], Province of British Columbia. The full Grade 7 source, including elaborations, was reviewed on **2026-09-14**. Source revision: not established.
 - **S2:** [Language Education Policy][S2], Province of British Columbia. Reviewed **2026-09-14**; supports course-choice and offering scope.
 - **S3:** [Introduction to Korean][S3], Province of British Columbia. Reviewed **2026-09-14**; supports instructional language, grammar, flexibility, and cultural-permission boundaries, not additional Grade 7 standards.
+- **S4:** [Educational Program Guide Order M231/19][S4], sections 2(a)-(b), Korean 5-9 and Coréen 5-9. Reviewed **2026-09-14** for the explicit French-program designation and optional/additional-study applicability, not an extra enrolment requirement.
 - **Rights:** Original, condensed English synthesis, not official wording or an authorized translation. The sources are subject to [BC Crown copyright](https://www2.gov.bc.ca/gov/content/home/copyright); no blanket Open Government Licence permission is assumed. No curriculum files or cultural works are mirrored.
 
 [Curriculum index](../../../../curriculum-index.md) | [Grade 7 overview](../../README.md) | [Languages courses](../README.md)
@@ -154,3 +158,4 @@ Stories and cultural work require appropriate attribution and permission. [S3] c
 [S1]: https://curriculum.gov.bc.ca/curriculum/languages/7/korean
 [S2]: https://www2.gov.bc.ca/gov/content/education-training/k-12/administration/legislation-policy/public-schools/language-education-policy
 [S3]: https://curriculum.gov.bc.ca/curriculum/languages/korean/introduction
+[S4]: https://www2.gov.bc.ca/assets/gov/education/administration/legislation-policy/legislation/schoollaw/e/m333_99.pdf

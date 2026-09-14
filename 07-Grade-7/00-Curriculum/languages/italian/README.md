@@ -6,7 +6,7 @@
 
 **Official BC entry:** [Italian 7](https://curriculum.gov.bc.ca/curriculum/languages/7/italian)
 
-**Program coverage:** English-language program, when Italian is the selected additional-language course. This is a course choice, not guaranteed local provision or a requirement to study every listed language. See [policy scope and program gaps](../README.md#course-choice-and-policy-scope).
+**Program coverage:** English-language course choice; optional/additional study in Early French Immersion, Late French Immersion, and Francophone programs. The [record's scope](curriculum.md#scope-and-use) cites the Guide Order's explicit French-program designation. This does not require extra enrolment, replace required language arts, or guarantee local availability. See [policy scope and placement](../README.md#course-choice-and-policy-scope).
 
 **Document language:** English (`en-CA`); official source reviewed in English. This is reference prose about learning Italian, not a claim about the school's instructional language.
 

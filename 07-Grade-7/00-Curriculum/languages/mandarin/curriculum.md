@@ -7,6 +7,9 @@ subject: languages
 course: mandarin
 programs:
   - english-language
+  - early-french-immersion
+  - late-french-immersion
+  - francophone
 document_language: en-CA
 coverage: core-summary
 status: source-checked
@@ -30,7 +33,7 @@ alignment_verified_on: "2026-09-14"
 
 ## Scope and use
 
-**Programs:** English-language, where Mandarin is the selected additional-language course. [S2] supports board-selected offerings, not a requirement for all learners to study Mandarin or every other catalog course. Other-program applicability and local availability are not established here.
+**Programs:** English-language, Early French Immersion, Late French Immersion, and Francophone. [S2] supports the English-language course-choice framework; [S3] explicitly designates the corresponding French guide for Francophone and French Immersion programs. This supports Mandarin as optional/additional study in those programs, not compulsory extra enrolment, a replacement for required language arts, or guaranteed local provision. See the [Languages policy scope](../README.md#course-choice-and-policy-scope) for placement and exceptions.
 
 **Document language:** English (`en-CA`), based on the English official source. The target language is Mandarin; documentation language does not prescribe classroom language.
 
@@ -146,9 +149,11 @@ Texts may be oral, written, visual, digital, or combined. Stories and artworks r
 
 - **S1:** [Mandarin 7][S1], Province of British Columbia. The complete Grade 7 source and elaborations were reviewed on **2026-09-14**. Source revision: not established.
 - **S2:** [Language Education Policy][S2], Province of British Columbia. Reviewed **2026-09-14**; supports course-choice and offering scope.
+- **S3:** [Educational Program Guide Order M231/19][S3], sections 2(a)-(b), the English and French Mandarin 5-9 guides. Reviewed **2026-09-14** for the explicit French-program designation and optional/additional-study applicability, not an extra enrolment requirement.
 - **Rights:** Original, condensed English synthesis, not official wording or an authorized translation. The source is subject to [BC Crown copyright](https://www2.gov.bc.ca/gov/content/home/copyright); no blanket Open Government Licence permission is assumed. No official documents or third-party cultural works are reproduced.
 
 [Curriculum index](../../../../curriculum-index.md) | [Grade 7 overview](../../README.md) | [Languages courses](../README.md)
 
 [S1]: https://curriculum.gov.bc.ca/curriculum/languages/7/mandarin
 [S2]: https://www2.gov.bc.ca/gov/content/education-training/k-12/administration/legislation-policy/public-schools/language-education-policy
+[S3]: https://www2.gov.bc.ca/assets/gov/education/administration/legislation-policy/legislation/schoollaw/e/m333_99.pdf

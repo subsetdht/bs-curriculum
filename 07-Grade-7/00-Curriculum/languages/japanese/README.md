@@ -6,7 +6,7 @@
 
 **Official BC entry:** [Japanese 7](https://curriculum.gov.bc.ca/curriculum/languages/7/japanese)
 
-**Program coverage:** English-language program, when Japanese is the selected additional-language course. This does not establish local availability or an additional requirement for other programs. See [policy scope and program gaps](../README.md#course-choice-and-policy-scope).
+**Program coverage:** English-language course choice; optional/additional study in Early French Immersion, Late French Immersion, and Francophone programs. The [record's scope](curriculum.md#scope-and-use) cites the Guide Order's explicit French-program designation. This does not require extra enrolment, replace required language arts, or guarantee local availability. See [policy scope and placement](../README.md#course-choice-and-policy-scope).
 
 **Document language:** English (`en-CA`); official source reviewed in English. Documentation language is separate from the Japanese being learned.
 

@@ -6,7 +6,7 @@
 
 **Official BC entry:** [American Sign Language (ASL) 7](https://curriculum.gov.bc.ca/curriculum/languages/7/american-sign-language)
 
-**Program coverage:** English-language program, when ASL is the selected additional-language course. This is one course choice, not a requirement for all learners or a guarantee of local availability. See [policy scope and program gaps](../README.md#course-choice-and-policy-scope).
+**Program coverage:** English-language course choice; optional/additional study in Early French Immersion, Late French Immersion, and Francophone programs. The [record's scope](curriculum.md#scope-and-use) cites the Guide Order's explicit French-program designation. This does not require extra enrolment, replace required language arts, or guarantee local availability. See [policy scope and placement](../README.md#course-choice-and-policy-scope).
 
 **Document language:** English (`en-CA`); official source reviewed in English. ASL itself is a signed, non-written language; neither English prose nor spoken-language exercises replace its communicative expectations.
 

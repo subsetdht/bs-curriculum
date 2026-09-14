@@ -7,6 +7,9 @@ subject: languages
 course: japanese
 programs:
   - english-language
+  - early-french-immersion
+  - late-french-immersion
+  - francophone
 document_language: en-CA
 coverage: core-summary
 status: source-checked
@@ -30,7 +33,7 @@ alignment_verified_on: "2026-09-14"
 
 ## Scope and use
 
-**Programs:** English-language, where Japanese is the selected additional-language course. [S2] leaves offerings to boards; this is not evidence that every school offers Japanese or that every learner takes all language courses. Other-program applicability is not established here.
+**Programs:** English-language, Early French Immersion, Late French Immersion, and Francophone. [S2] supports the English-language course-choice framework; [S3] explicitly designates the corresponding French guide for Francophone and French Immersion programs. This supports Japanese as optional/additional study in those programs, not compulsory extra enrolment, a replacement for required language arts, or guaranteed local provision. See the [Languages policy scope](../README.md#course-choice-and-policy-scope) for placement and exceptions.
 
 **Document language:** English (`en-CA`), using the English official source. This is reference writing about Japanese learning, not a statement that Japanese instruction should be in English.
 
@@ -152,9 +155,11 @@ Stories and artworks remain with their creators and communities. Curriculum refe
 
 - **S1:** [Japanese 7][S1], Province of British Columbia. The complete Grade 7 page and elaborations were reviewed on **2026-09-14**. Source revision: not established.
 - **S2:** [Language Education Policy][S2], Province of British Columbia. Reviewed **2026-09-14**; supports course-choice and offering scope.
+- **S3:** [Educational Program Guide Order M231/19][S3], sections 2(a)-(b), Japanese 5-9 and Japonais 5-9. Reviewed **2026-09-14** for the explicit French-program designation and optional/additional-study applicability, not an extra enrolment requirement.
 - **Rights:** Original, condensed English synthesis, not official wording or an authorized translation. The source is subject to [BC Crown copyright](https://www2.gov.bc.ca/gov/content/home/copyright); no blanket Open Government Licence permission is assumed. No official documents or third-party works are reproduced.
 
 [Curriculum index](../../../../curriculum-index.md) | [Grade 7 overview](../../README.md) | [Languages courses](../README.md)
 
 [S1]: https://curriculum.gov.bc.ca/curriculum/languages/7/japanese
 [S2]: https://www2.gov.bc.ca/gov/content/education-training/k-12/administration/legislation-policy/public-schools/language-education-policy
+[S3]: https://www2.gov.bc.ca/assets/gov/education/administration/legislation-policy/legislation/schoollaw/e/m333_99.pdf

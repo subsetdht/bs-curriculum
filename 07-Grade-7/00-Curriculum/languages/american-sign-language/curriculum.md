@@ -7,6 +7,9 @@ subject: languages
 course: american-sign-language
 programs:
   - english-language
+  - early-french-immersion
+  - late-french-immersion
+  - francophone
 document_language: en-CA
 coverage: core-summary
 status: source-checked
@@ -30,7 +33,7 @@ alignment_verified_on: "2026-09-14"
 
 ## Scope and use
 
-**Programs:** English-language, when ASL is the selected additional-language course. [S2] establishes the second-language policy and board choice of offerings; this record does not establish placement in other programs. See the [Languages policy scope](../README.md#course-choice-and-policy-scope).
+**Programs:** English-language, Early French Immersion, Late French Immersion, and Francophone. [S2] supports the English-language course-choice framework; [S3] explicitly designates the corresponding French guide for Francophone and French Immersion programs. This supports ASL as optional/additional study in those programs, not compulsory extra enrolment, a replacement for required language arts, or guaranteed local provision. See the [Languages policy scope](../README.md#course-choice-and-policy-scope) for placement and exceptions.
 
 **Document language:** English (`en-CA`), summarizing an English official source. ASL is the language being learned, not a spoken or written form of English.
 
@@ -150,9 +153,11 @@ Deaf cultural identity is not reducible to hearing status. Neither Deaf communit
 
 - **S1:** [American Sign Language (ASL) 7][S1], Province of British Columbia. The complete Grade 7 page, including elaborations, was reviewed on **2026-09-14**. Source revision: not established.
 - **S2:** [Language Education Policy][S2], Province of British Columbia. Reviewed **2026-09-14**; supports course-choice scope, not a new set of ASL standards.
+- **S3:** [Educational Program Guide Order M231/19][S3], sections 2(a)-(b), American Sign Language 5-9 and Langage ASL 5-9. Reviewed **2026-09-14** for the explicit French-program designation and optional/additional-study applicability, not an extra enrolment requirement.
 - **Rights:** Original, condensed synthesis, not official wording, a translation of signed works, or a curriculum mirror. The official source is subject to [BC Crown copyright](https://www2.gov.bc.ca/gov/content/home/copyright); no blanket Open Government Licence permission is assumed. No official files or third-party stories are reproduced.
 
 [Curriculum index](../../../../curriculum-index.md) | [Grade 7 overview](../../README.md) | [Languages courses](../README.md)
 
 [S1]: https://curriculum.gov.bc.ca/curriculum/languages/7/american-sign-language
 [S2]: https://www2.gov.bc.ca/gov/content/education-training/k-12/administration/legislation-policy/public-schools/language-education-policy
+[S3]: https://www2.gov.bc.ca/assets/gov/education/administration/legislation-policy/legislation/schoollaw/e/m333_99.pdf

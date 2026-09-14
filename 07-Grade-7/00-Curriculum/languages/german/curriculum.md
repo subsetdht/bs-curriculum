@@ -7,6 +7,9 @@ subject: languages
 course: german
 programs:
   - english-language
+  - early-french-immersion
+  - late-french-immersion
+  - francophone
 document_language: en-CA
 coverage: core-summary
 status: source-checked
@@ -30,7 +33,7 @@ alignment_verified_on: "2026-09-14"
 
 ## Scope and use
 
-**Programs:** English-language, where German is the chosen additional-language course. The policy in [S2] supports board-selected offerings; it does not establish local availability or require every language course. Other-program applicability is not established by this record.
+**Programs:** English-language, Early French Immersion, Late French Immersion, and Francophone. [S2] supports the English-language course-choice framework; [S3] explicitly designates the corresponding French guide for Francophone and French Immersion programs. This supports German as optional/additional study in those programs, not compulsory extra enrolment, a replacement for required language arts, or guaranteed local provision. See the [Languages policy scope](../README.md#course-choice-and-policy-scope) for placement and exceptions.
 
 **Document language:** English (`en-CA`), using the English official source. German is the language being studied; English documentation does not prescribe classroom language.
 
@@ -146,9 +149,11 @@ First Peoples histories and community knowledge remain part of the course. Obtai
 
 - **S1:** [German 7][S1], Province of British Columbia. The complete Grade 7 curriculum and elaborations were reviewed on **2026-09-14**. Source revision: not established.
 - **S2:** [Language Education Policy][S2], Province of British Columbia. Reviewed **2026-09-14**; supports the course-choice scope.
+- **S3:** [Educational Program Guide Order M231/19][S3], sections 2(a)-(b), German 5-9 and Allemand 5-9. Reviewed **2026-09-14** for the explicit French-program designation and optional/additional-study applicability, not an extra enrolment requirement.
 - **Rights:** Original, condensed English synthesis, not official wording or an authorized translation. The source is subject to [BC Crown copyright](https://www2.gov.bc.ca/gov/content/home/copyright); no blanket Open Government Licence permission is assumed. No curriculum files or third-party works are reproduced.
 
 [Curriculum index](../../../../curriculum-index.md) | [Grade 7 overview](../../README.md) | [Languages courses](../README.md)
 
 [S1]: https://curriculum.gov.bc.ca/curriculum/languages/7/german
 [S2]: https://www2.gov.bc.ca/gov/content/education-training/k-12/administration/legislation-policy/public-schools/language-education-policy
+[S3]: https://www2.gov.bc.ca/assets/gov/education/administration/legislation-policy/legislation/schoollaw/e/m333_99.pdf
