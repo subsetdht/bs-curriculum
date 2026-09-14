@@ -2,13 +2,19 @@
 
 [Curriculum index](../../../curriculum-index.md) > [6](../README.md) > Francophone Language Arts
 
-**Content status:** Needs summary.
+**Content status:** Summary available.
 
-**Official BC entry:** [Francophone Language Arts 6](https://curriculum.gov.bc.ca/curriculum/francais-langue-premiere/6/core)
+**Official BC entry:** [Français langue première 6, in French](https://curriculum.gov.bc.ca/fr/curriculum/francais-langue-premiere/6/core)
 
-**Program coverage:** Not yet reviewed. Do not infer applicability or classroom language from this landing page.
+[Read the curriculum summary](curriculum.md) | [Big Ideas](curriculum.md#big-ideas) | [Curricular Competencies](curriculum.md#curricular-competencies) | [Content](curriculum.md#content)
 
-**To fill or maintain:** Create `curriculum.md` here using the [record template](../../../templates/curriculum-record.md), after reviewing the source, grade scope, and program applicability.
+**Program coverage:** Francophone, the distinct first-language program. This is not Early or Late French Immersion, Core French, or the program's separate English Language Arts.
+
+**Summary language:** English (`en-CA`). **Official source language:** French (`fr`). An English reference summary is not a French classroom resource.
+
+**Alignment review:** 2026-09-14; source-checked against the curriculum and elaborations.
+
+**To fill or maintain:** Maintain the linked record, source locators, and stable item IDs. Keep this landing and grade/program indexes consistent with the record metadata.
 
 Follow the [landing-page workflow](../../../curriculum-format.md#filling-a-landing-page). This page is navigation, not a set of learning standards.
 

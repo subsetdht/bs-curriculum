@@ -2,13 +2,19 @@
 
 [Curriculum index](../../../curriculum-index.md) > [6](../README.md) > Applied Design, Skills, and Technologies
 
-**Content status:** Needs summary.
+**Content status:** Summary available.
 
 **Official BC entry:** [Applied Design, Skills, and Technologies 6](https://curriculum.gov.bc.ca/curriculum/adst/6/core)
 
-**Program coverage:** Not yet reviewed. Do not infer applicability or classroom language from this landing page.
+[Read the curriculum summary](curriculum.md) | [Big Ideas](curriculum.md#big-ideas) | [Curricular Competencies](curriculum.md#curricular-competencies) | [Content](curriculum.md#content)
 
-**To fill or maintain:** Create `curriculum.md` here using the [record template](../../../templates/curriculum-record.md), after reviewing the source, grade scope, and program applicability.
+**Program coverage:** English-language; Early French Immersion; Late French Immersion; Francophone. Shared subject expectations, with instruction-language and individual exceptions explained in the [program overview](../README.md#choose-a-program).
+
+**Summary language:** en-CA. **Official source language:** English.
+
+**Scope:** ADST 6-7 standards apply. At least three modules are experienced in each year; the twelve provincial modules are choices, and locally developed modules using the same competencies are permitted. This is not a requirement to complete every module.
+
+**To fill or maintain:** Maintain the source-checked record, stable item IDs, module distinctions, and consistent grade/program navigation.
 
 Follow the [landing-page workflow](../../../curriculum-format.md#filling-a-landing-page). This page is navigation, not a set of learning standards.
 

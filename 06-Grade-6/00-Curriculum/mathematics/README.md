@@ -2,13 +2,19 @@
 
 [Curriculum index](../../../curriculum-index.md) > [6](../README.md) > Mathematics
 
-**Content status:** Needs summary.
+**Content status:** Summary available.
 
 **Official BC entry:** [Mathematics 6](https://curriculum.gov.bc.ca/curriculum/mathematics/6/core)
 
-**Program coverage:** Not yet reviewed. Do not infer applicability or classroom language from this landing page.
+[Read the curriculum summary](curriculum.md) | [Big Ideas](curriculum.md#big-ideas) | [Curricular Competencies](curriculum.md#curricular-competencies) | [Content](curriculum.md#content)
 
-**To fill or maintain:** Create `curriculum.md` here using the [record template](../../../templates/curriculum-record.md), after reviewing the source, grade scope, and program applicability.
+**Program coverage:** English-language; Early French Immersion; Late French Immersion; Francophone. Shared subject expectations, with instruction-language and individual exceptions explained in the [program overview](../README.md#choose-a-program).
+
+**Summary language:** en-CA. **Official source language:** English.
+
+**Scope:** Grade 6 number, operations, patterns, geometry, measurement, data, probability, and financial literacy. The record retains the different number, equation, and graphing limits.
+
+**To fill or maintain:** Maintain the source-checked record and stable item IDs. Keep this landing and grade/program navigation consistent with its metadata.
 
 Follow the [landing-page workflow](../../../curriculum-format.md#filling-a-landing-page). This page is navigation, not a set of learning standards.
 

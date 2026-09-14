@@ -2,15 +2,21 @@
 
 [Curriculum index](../../../curriculum-index.md) > [6](../README.md) > French Immersion Language Arts
 
-**Content status:** Needs summary.
+**Content status:** Summary available.
 
-**Official BC entry:** [French Immersion Language Arts 6](https://curriculum.gov.bc.ca/curriculum/fral/6/core)
+**Official BC entry:** [French Immersion Language Arts 6, in French](https://curriculum.gov.bc.ca/fr/curriculum/fral/6/core)
 
-**Program coverage:** Not yet reviewed. Do not infer applicability or classroom language from this landing page.
+[Read the curriculum summary](curriculum.md) | [Big Ideas](curriculum.md#big-ideas) | [Curricular Competencies](curriculum.md#curricular-competencies) | [Content](curriculum.md#content)
 
-**Separate catalog entry:** [6T](transition-6t/README.md). Keep this transition distinct from the regular entry.
+**Program coverage:** Early French Immersion. This regular Grade 6 record is distinct from the Late Immersion entry below, Core French, and Francophone first-language arts.
 
-**To fill or maintain:** Create `curriculum.md` here using the [record template](../../../templates/curriculum-record.md), after reviewing the source, grade scope, and program applicability.
+**Summary language:** English (`en-CA`). **Official source language:** French (`fr`). An English reference summary is not a French classroom resource.
+
+**Alignment review:** 2026-09-14; source-checked against the curriculum and elaborations.
+
+**Separate catalog entry:** [6T](transition-6t/README.md), for Grade 6 Late French Immersion. The records explain their different expectations and provincial English Language Arts timing; they are not interchangeable.
+
+**To fill or maintain:** Maintain the linked record, source locators, and stable item IDs. Keep this landing and grade/program indexes consistent with the record metadata.
 
 Follow the [landing-page workflow](../../../curriculum-format.md#filling-a-landing-page). This page is navigation, not a set of learning standards.
 
