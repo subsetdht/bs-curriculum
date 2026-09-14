@@ -36,20 +36,20 @@ The repository includes one top-level directory per grade. Two-digit prefixes ke
 
 Use `00-Kindergarten` for Kindergarten content and `01-Grade-1` through `12-Grade-12` for numbered grades. Keep sorting prefixes two digits; `00` is only a sorting key, not a grade designation.
 
-Each grade directory has the same four categories. For example:
+Each grade directory has the same four categories, with two-digit prefixes to preserve this order when sorted alphabetically. For example:
 
 ```text
 01-Grade-1/
-|-- Curriculum/
-|-- Resources/
-|-- Tools/
-`-- Additional-Content/
+|-- 00-Curriculum/
+|-- 01-Resources/
+|-- 02-Tools/
+`-- 03-Additional-Content/
 ```
 
-- **Curriculum** contains curriculum summaries or references organized by subject and learning standard.
-- **Resources** contains lessons, exercises, readings, media, and other material tied to a curriculum expectation.
-- **Tools** contains applications, templates, scripts, or interactive aids tied to a curriculum expectation.
-- **Additional Content** contains useful enrichment material that does not map directly to a curriculum expectation.
+- **00-Curriculum** contains curriculum summaries or references organized by subject and learning standard.
+- **01-Resources** contains lessons, exercises, readings, media, and other material tied to a curriculum expectation.
+- **02-Tools** contains applications, templates, scripts, or interactive aids tied to a curriculum expectation.
+- **03-Additional-Content** contains useful enrichment material that does not map directly to a curriculum expectation.
 
 Within each category, organize content by subject when multiple subjects are present.
 
@@ -67,7 +67,7 @@ Every resource or tool must include enough context for a reader to understand it
 - source and license, where applicable; and
 - the date on which external curriculum alignment was last verified.
 
-If an item has no direct curriculum association, place it under `Additional-Content` and describe its intended enrichment value.
+If an item has no direct curriculum association, place it under `03-Additional-Content` and describe its intended enrichment value.
 
 Do not commit copyrighted material unless its license permits redistribution. Prefer links to authoritative sources when redistribution rights are unclear, and never include student personal information, credentials, or private assessment data.
 
