@@ -2,13 +2,17 @@
 
 [Curriculum index](../../../curriculum-index.md) > [5](../README.md) > Science
 
-**Content status:** Needs summary.
+**Content status:** Summary available.
 
 **Official BC entry:** [Science 5](https://curriculum.gov.bc.ca/curriculum/science/5/core)
 
-**Program coverage:** Not yet reviewed. Do not infer applicability or classroom language from this landing page.
+**Program coverage:** English-language, Early French Immersion, and Francophone; shared provincial expectations.
 
-**To fill or maintain:** Create `curriculum.md` here using the [record template](../../../templates/curriculum-record.md), after reviewing the source, grade scope, and program applicability.
+**Written summary:** [Science 5](curriculum.md). **Document language:** English (`en-CA`); source language: English. Alignment reviewed **2026-09-14**.
+
+[Big Ideas](curriculum.md#big-ideas) | [Curricular Competencies](curriculum.md#curricular-competencies) | [Content](curriculum.md#content)
+
+**To fill or maintain:** Recheck the four body systems, fair-testing scope, and First Peoples environmental perspectives alongside the [program basis](../README.md#program-basis). Preserve local IDs.
 
 Follow the [landing-page workflow](../../../curriculum-format.md#filling-a-landing-page). This page is navigation, not a set of learning standards.
 
