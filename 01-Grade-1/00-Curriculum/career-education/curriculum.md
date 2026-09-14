@@ -8,6 +8,7 @@ course: null
 programs:
   - english-language
   - early-french-immersion
+  - francophone
 document_language: en-CA
 coverage: core-summary
 status: source-checked
@@ -34,7 +35,7 @@ alignment_verified_on: "2026-09-14"
 
 ## Scope and use
 
-**Programs:** English-language and Early French Immersion; shared provincial expectations.
+**Programs:** English-language, Early French Immersion, and Francophone; shared provincial subject expectations under [S3], sections 1-2.
 
 **Document language:** English, separately from the language of classroom instruction.
 
@@ -116,9 +117,11 @@ The primary source is the ministry's Grade 1 view of the K-3 expectations. The c
 
 - **S1:** [Career Education 1][S1], Province of British Columbia. Alignment checked: **2026-09-14**. Source revision date: not established.
 - **S2:** [Official Career Education K-9 compilation (DOCX)][S2], Province of British Columbia. Its K-3 heading and corresponding standards were checked on **2026-09-14** to establish the source grade band. The file is linked, not stored in the repository.
+- **S3:** [Required Areas of Learning in an Educational Program Order][S3], Province of British Columbia, sections 1-2. These include Francophone students and identify the shared non-language-arts areas. Program scope checked: **2026-09-14**.
 - **Rights:** Original, condensed summary; not official wording. The source is subject to [BC Crown copyright](https://www2.gov.bc.ca/gov/content/home/copyright). No curriculum documents or third-party examples are reproduced.
 
 [Curriculum index](../../../curriculum-index.md) | [Grade 1 overview](../README.md) | [SD43 context](../sd43-context.md)
 
 [S1]: https://curriculum.gov.bc.ca/curriculum/career-education/1/core
 [S2]: https://curriculum.gov.bc.ca/sites/curriculum.gov.bc.ca/files/curriculum/career-education/en_career-education_k-9.docx
+[S3]: https://www2.gov.bc.ca/assets/gov/education/administration/legislation-policy/legislation/schoollaw/e/m295_95.pdf

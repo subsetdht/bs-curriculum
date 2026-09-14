@@ -4,13 +4,13 @@
 
 **Content status:** Summary available.
 
-**Official BC entry:** [French Immersion Language Arts 1](https://curriculum.gov.bc.ca/curriculum/fral/1/core)
+**Official BC entry:** [French Immersion Language Arts 1](https://curriculum.gov.bc.ca/fr/curriculum/fral/1/core)
 
 [Read the curriculum summary](curriculum.md) | [Big Ideas](curriculum.md#big-ideas) | [Curricular Competencies](curriculum.md#curricular-competencies) | [Content](curriculum.md#content)
 
 **Program coverage:** Early French Immersion.
 
-**Summary language:** en-CA.
+**Summary language:** English (`en-CA`). **Curriculum source language:** French (`fr`).
 
 **To fill or maintain:** Maintain the linked record and its stable item IDs. Keep this landing page and the grade/program indexes consistent with the record metadata.
 

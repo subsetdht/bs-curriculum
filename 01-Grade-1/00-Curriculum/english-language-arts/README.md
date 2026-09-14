@@ -10,7 +10,7 @@
 
 **Program coverage:** English-language.
 
-**Summary language:** en-CA.
+**Summary language:** English (`en-CA`). **Curriculum source language:** English (`en`).
 
 **To fill or maintain:** Maintain the linked record and its stable item IDs. Keep this landing page and the grade/program indexes consistent with the record metadata.
 
