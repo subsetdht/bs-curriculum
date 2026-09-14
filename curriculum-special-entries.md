@@ -10,7 +10,9 @@ Keep these named anchors as cross-grade entry points. This is original inventory
 
 ## Career Life Education
 
-**Content status:** Course inventory and source scope reviewed; needs summary and integration.
+**Content status:** Source-checked summary available.
+
+[Course landing](10-Grade-10/00-Curriculum/career-education/career-life-education/README.md) | [Curriculum summary](10-Grade-10/00-Curriculum/career-education/career-life-education/curriculum.md) | [Big Ideas](10-Grade-10/00-Curriculum/career-education/career-life-education/curriculum.md#big-ideas) | [Curricular Competencies](10-Grade-10/00-Curriculum/career-education/career-life-education/curriculum.md#curricular-competencies) | [Content](10-Grade-10/00-Curriculum/career-education/career-life-education/curriculum.md#content)
 
 **Official BC entry:** [Career Life Education](https://curriculum.gov.bc.ca/curriculum/career-education/all/career-life-education), English learning standards.
 
@@ -23,7 +25,7 @@ Keep these named anchors as cross-grade entry points. This is original inventory
 
 These are reporting options for one curriculum, not three standards sets. The [registry][registry] identifies instruction language separately.
 
-**Placement:** `10-Grade-10/00-Curriculum/career-education/career-life-education/` is the approved **administrative/credit-level host**, supported by registry entry **3201860**, TRAX `CLE` / MyEd BC `MCLE-10`. Its record must retain `source.grade_scope: ["10", "11", "12"]` and explain that the target directory is not a prescribed delivery year. Keep this entry and the eventual record linked from all three senior overviews. `CLE` and `all` are not grades.
+**Placement:** The [Grade 10 course landing](10-Grade-10/00-Curriculum/career-education/career-life-education/README.md) is the approved **administrative/credit-level host**, supported by registry entry **3201860**, TRAX `CLE` / MyEd BC `MCLE-10`. Its record retains `source.grade_scope: ["10", "11", "12"]` and explains that the target directory is not a prescribed delivery year. Keep this entry and the shared record linked from all three senior overviews as their content is integrated. `CLE` and `all` are not grades.
 
 **Programs:** Shared expectations for the four programs identified [below](#programs-and-languages); French reporting options are not a separate immersion or Francophone curriculum.
 
@@ -112,7 +114,7 @@ Follow the [landing workflow](curriculum-format.md#filling-a-landing-page) and [
 ### Integration still required
 
 1. Preserve `#career-life-education`, `#career-life-connections`, and `#additional-offerings`. Keep the central index's `CLE`, `CLC`, and Additional Offerings selectors pointing here.
-2. Integrate CLE at its Grade 10 credit-level host and CLC at its Grade 12 host; link both from all 10-12 overviews. Preserve source bands and credit/delivery distinctions. Common STX placement remains separate and pending.
+2. CLE is integrated at its Grade 10 credit-level host; integrate CLC at its Grade 12 host and expose both from all 10-12 overviews. Preserve source bands and credit/delivery distinctions. Common STX placement remains separate and pending.
 3. Integrate grade-owner WEX12A/B and WRK11/12 landings and summaries; add ADST cross-navigation without duplicates.
 4. Replace proposed paths with descriptive links only when files exist. Add section links only for real records; track related/conditional pathways separately.
 5. Update **Career Education**, **Additional Offerings**, and applicable **ADST** Written summaries entries, senior grade/program pathways, and root coverage. Keep summary, French-edition, provider, and policy/source gaps visible.
