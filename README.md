@@ -16,7 +16,7 @@ This is an independent educational project. It is not affiliated with or endorse
 
 ## Repository Structure
 
-As content is added, use one top-level directory per grade. Each grade directory should use the following structure:
+The repository includes one top-level directory per grade, from `Kindergarten` through `Grade-12`. Each grade directory has the following structure:
 
 ```text
 Grade-<number>/
@@ -32,6 +32,8 @@ Grade-<number>/
 - **Additional Content** contains useful enrichment material that does not map directly to a curriculum expectation.
 
 Use `Kindergarten` for Kindergarten content and `Grade-1` through `Grade-12` for numbered grades. Within each category, organize content by subject when multiple subjects are present.
+
+Empty category directories contain a `.gitkeep` placeholder so they are included in Git. Remove the placeholder when adding content to that directory.
 
 ## Content Requirements
 
