@@ -20,15 +20,15 @@ This is an independent educational project. It is not affiliated with or endorse
 
 Use the [curriculum index](curriculum-index.md) to browse subject areas and choose a grade, following a similar pattern to the official BC curriculum site. Grade selectors use compact labels `K`, `1`, `2`, ..., `12`, without a `Grade` prefix. Main catalog entry points now have real local landing pages, with official sources and clear content status. A landing link is not a claim that its curriculum summary is complete.
 
-The [Grade 1 curriculum](01-Grade-1/00-Curriculum/README.md) contains nine source-linked, original summaries: seven shared subjects, English Language Arts, and French Immersion Language Arts. Its program table shows which records apply to the English-language and Early French Immersion programs.
+The [Grade 1 curriculum](01-Grade-1/00-Curriculum/README.md) provides worked examples of shared-subject references and distinct English, French Immersion, and Francophone language-arts records. Use the [curriculum index](curriculum-index.md) for current written coverage across grades and programs.
 
-The [curriculum format guide](curriculum-format.md), [landing template](templates/curriculum-landing.md), and [record template](templates/curriculum-record.md) define how to fill the structure. Landings cover the main K-12 catalog entries, including course lists, immersion transitions, and [named or cross-grade entries](curriculum-special-entries.md). Most summaries and individual course inventories still need to be written; the repository is not yet a complete K-12 or all-program curriculum collection.
+The [curriculum format guide](curriculum-format.md), [landing template](templates/curriculum-landing.md), and [record template](templates/curriculum-record.md) define how to fill the structure. Landings cover the main K-12 catalog entries, including course lists, immersion transitions, and [named or cross-grade entries](curriculum-special-entries.md). Landing statuses distinguish available summaries from pending inventories, source gaps, and other unfinished content.
 
 ## Programs and Languages
 
 This repository is intended to serve BC learners beyond a single district or language program. English-language coverage is the initial priority, with French Immersion coverage identified separately rather than treated as an English translation or an afterthought.
 
-Every curriculum record explicitly declares its applicable `programs` and its `document_language`. Shared provincial expectations have one record listing the supported programs; distinct language-arts curricula have separate records. Early French Immersion, Late French Immersion, and the first-language Francophone program are not interchangeable. The format supports all four program labels, but Grade 1's written summaries currently cover only English-language and Early French Immersion.
+Every curriculum record explicitly declares its applicable `programs` and its `document_language`. Shared provincial expectations have one record listing the supported programs; distinct language-arts curricula have separate records. Early French Immersion, Late French Immersion, and the first-language Francophone program are not interchangeable. Consult the record metadata and grade/program indexes for source-backed applicability rather than treating every landing as every program's curriculum.
 
 The main catalog lists all source-derived landing entries without assuming program applicability. Program navigation lists written, source-checked coverage separately. Pending landings must not be labelled as universal or assigned to a program merely because their source exists.
 
@@ -78,6 +78,8 @@ Within each category, organize content by subject when multiple subjects are pre
 Within `00-Curriculum`, use a `README.md` grade index and a `README.md` landing in each subject directory. Write the actual curriculum summary in a separate `curriculum.md` beside the landing. For multiple courses or program variants, add named directories beneath the subject, each with its own landing and record. Follow the [format guide](curriculum-format.md) for grade bands, course choices, stable local reference IDs, and future language editions.
 
 The central [curriculum index](curriculum-index.md) is the cross-grade navigation layer. Its main grade links point to stable landing pages; its Written summaries column points to actual records. Grade indexes show pending landings and, where records exist, direct links to Big Ideas, Curricular Competencies, and Content. Keep landings and indexes synchronized as content is added. Pending landing pages are expected; links to nonexistent records are not.
+
+For a course with flexible delivery across grades, a source-backed registry or credit-level designation may determine its canonical directory host. That host must not be presented as a required teaching year. Preserve the full `source.grade_scope`, explain the distinction, and cross-link the shared record from every applicable grade. See [course-host conventions](curriculum-format.md#course-hosts-and-delivery-years).
 
 Empty category directories contain a `.gitkeep` placeholder so they are included in Git. Remove the placeholder when adding content to that directory.
 

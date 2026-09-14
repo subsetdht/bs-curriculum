@@ -4,7 +4,7 @@
 
 **Format version:** 1.
 
-**Content status:** Main catalog landings are bootstrapped. Nine Grade 1 summaries are written; the remaining summaries and course inventories need to be filled.
+**Content status:** Main catalog landings are bootstrapped and summaries are being populated. The [curriculum index](curriculum-index.md) tracks available records and the landings identify remaining work.
 
 Use Markdown with YAML front matter: one readable, source-linked curriculum summary per subject or named course. Markdown is the maintained source; do not maintain a second JSON or YAML copy of the same curriculum. The [record template](templates/curriculum-record.md) and [Grade 1 curriculum](01-Grade-1/00-Curriculum/README.md) demonstrate the format.
 
@@ -35,7 +35,7 @@ Every curriculum record must explicitly list its applicable programs. There is n
 | `late-french-immersion` | Late French Immersion; only for applicable grades and records |
 | `francophone` | The distinct first-language Francophone program |
 
-Grade 1's written summaries cover the first two programs. The other values are supported by the format, but their presence in this table or in source-linked landings does not mean their curriculum summaries have been written.
+A program label's presence in this table or in a source-linked landing does not establish written coverage. Use the actual records and grade/program indexes to identify reviewed applicability and remaining gaps.
 
 The English-language program is the initial research and navigation priority. Prioritization must never hide missing coverage for another program or label English-only material as universal.
 
@@ -92,6 +92,16 @@ The same record format applies to Kindergarten, grade-banded standards, and Grad
 The central index, grade overviews, subject/course landings, special-entry page, and district context pages are navigation or explanatory documents, not curriculum records. They do not use the record front matter or pretend to contain learning standards.
 
 The [special-entry page](curriculum-special-entries.md) holds stable landing anchors for CLE, CLC, and Additional Offerings because the main catalog does not give them ordinary grade selectors. Fill in source-backed placement and course links there; do not invent grade assignments to fit the directory structure.
+
+### Course hosts and delivery years
+
+Keep curriculum grade, registry/credit classification, student eligibility, and teaching year distinct. A course may have a registry classification but allow delivery across several grades.
+
+Where a verified registry or credit-level designation supplies a canonical host, `grade` identifies that repository host and `source.grade_scope` retains the full source-backed band. Explain the host in the title or Scope and use section, cite the registry and applicable policy, and link the record from all relevant grade overviews. Do not duplicate one curriculum merely because it can be taken in several years or has split-credit or translated reporting codes.
+
+For example, CLE has a source-backed administrative Grade 10 host and CLC a Grade 12 credit-level host, while both permit delivery in 10, 11, or 12. Their records use their respective host grades with `source.grade_scope: ["10", "11", "12"]`; neither folder implies a compulsory teaching year. Keep the `CLE` and `CLC` special-entry anchors as cross-grade navigation.
+
+If no defensible host or source band is established, keep placement explicitly pending rather than choosing a grade from common practice. Reporting alternatives that share standards belong in the same record/landing inventory; genuinely different curricula require distinct records.
 
 ## Navigation contract
 
