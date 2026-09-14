@@ -1,20 +1,64 @@
-## Purpose
-This repository contains the British Columbia curriculum for K to 12, along with learning resources and tools to help school aged children achieve their learning outcomes and excel in their education.
+# British Columbia K-12 Curriculum Resources
 
-## Structure
-There is a folder for each grade. In each folder there are subfolders for 
-- Curriculum
-- Resources
-- Tools
-- Additional Content
+This repository organizes British Columbia K-12 curriculum information alongside learning resources and educational tools. Its purpose is to help families and educators find material that supports specific curriculum expectations and student learning outcomes.
 
-The resources and tools are linked to the specific curriculum output/criteria.
+## Scope
 
-## Resource and Tool Structure
-Each resource or tool must specifically link to the curriculum. If it does not have a direct association, then it must move to the Additional Content folder.
+Content in this repository should:
+
+- support learners from Kindergarten through Grade 12;
+- align with the current British Columbia curriculum;
+- identify the grade, subject, and curriculum expectation it supports;
+- be age-appropriate, accessible, and suitable for educational use; and
+- include a reliable source or attribution when content is not original.
+
+This is an independent educational project. It is not affiliated with or endorsed by the Government of British Columbia or any school district. Official curriculum requirements should always be verified against the [BC Curriculum](https://curriculum.gov.bc.ca/) website.
+
+## Repository Structure
+
+As content is added, use one top-level directory per grade. Each grade directory should use the following structure:
+
+```text
+Grade-<number>/
+|-- Curriculum/
+|-- Resources/
+|-- Tools/
+`-- Additional-Content/
+```
+
+- **Curriculum** contains curriculum summaries or references organized by subject and learning standard.
+- **Resources** contains lessons, exercises, readings, media, and other material tied to a curriculum expectation.
+- **Tools** contains applications, templates, scripts, or interactive aids tied to a curriculum expectation.
+- **Additional Content** contains useful enrichment material that does not map directly to a curriculum expectation.
+
+Use `Kindergarten` for Kindergarten content and `Grade-1` through `Grade-12` for numbered grades. Within each category, organize content by subject when multiple subjects are present.
+
+## Content Requirements
+
+Every resource or tool must include enough context for a reader to understand its educational purpose. At minimum, document:
+
+- grade and subject;
+- related curricular competency or content expectation;
+- learning objective;
+- prerequisites or required materials;
+- instructions for use;
+- source and license, where applicable; and
+- the date on which external curriculum alignment was last verified.
+
+If an item has no direct curriculum association, place it under `Additional-Content` and describe its intended enrichment value.
+
+Do not commit copyrighted material unless its license permits redistribution. Prefer links to authoritative sources when redistribution rights are unclear, and never include student personal information, credentials, or private assessment data.
 
 ## Contributing
-Keep it clean, appropriate, this is for personal use and for helping our kiddos do great.
 
-## Agents
-Follow these conventions. Any additional changes to the general structure must be amended in a PR. 
+1. Create or update content in the appropriate grade, subject, and category.
+2. Confirm curriculum alignment using an authoritative source.
+3. Add attribution and licensing information for third-party material.
+4. Review language, links, accessibility, and age appropriateness.
+5. Submit a pull request that explains the learning objective and curriculum connection.
+
+Changes to the repository-wide organization or naming conventions should update both this README and [AGENTS.md](AGENTS.md) in the same pull request.
+
+## Agent Guidance
+
+Automated coding agents must follow the repository instructions in [AGENTS.md](AGENTS.md).
