@@ -16,7 +16,8 @@ Maintain a clear, trustworthy collection of British Columbia K-12 curriculum ref
 
 ## Repository Conventions
 
-- Use `Kindergarten` and `Grade-1` through `Grade-12` for top-level grade directories.
+- Use `00-Kindergarten` and `01-Grade-1` through `12-Grade-12` for top-level grade directories.
+- Keep the sorting prefix two digits (`00` through `12`) so alphabetical sorting follows grade order. Preserve the familiar grade label after the prefix; `00` is a sorting key for Kindergarten, not a grade designation.
 - Use `Curriculum`, `Resources`, `Tools`, and `Additional-Content` as category directory names.
 - Organize category content by subject when more than one subject is present.
 - Use descriptive kebab-case names for new files and directories unless a local convention requires otherwise.

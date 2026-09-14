@@ -16,10 +16,30 @@ This is an independent educational project. It is not affiliated with or endorse
 
 ## Repository Structure
 
-The repository includes one top-level directory per grade, from `Kindergarten` through `Grade-12`. Each grade directory has the following structure:
+The repository includes one top-level directory per grade. Two-digit prefixes keep the folders in school order when sorted alphabetically in GitHub or a file browser:
 
 ```text
-Grade-<number>/
+00-Kindergarten/
+01-Grade-1/
+02-Grade-2/
+03-Grade-3/
+04-Grade-4/
+05-Grade-5/
+06-Grade-6/
+07-Grade-7/
+08-Grade-8/
+09-Grade-9/
+10-Grade-10/
+11-Grade-11/
+12-Grade-12/
+```
+
+Use `00-Kindergarten` for Kindergarten content and `01-Grade-1` through `12-Grade-12` for numbered grades. Keep sorting prefixes two digits; `00` is only a sorting key, not a grade designation.
+
+Each grade directory has the same four categories. For example:
+
+```text
+01-Grade-1/
 |-- Curriculum/
 |-- Resources/
 |-- Tools/
@@ -31,7 +51,7 @@ Grade-<number>/
 - **Tools** contains applications, templates, scripts, or interactive aids tied to a curriculum expectation.
 - **Additional Content** contains useful enrichment material that does not map directly to a curriculum expectation.
 
-Use `Kindergarten` for Kindergarten content and `Grade-1` through `Grade-12` for numbered grades. Within each category, organize content by subject when multiple subjects are present.
+Within each category, organize content by subject when multiple subjects are present.
 
 Empty category directories contain a `.gitkeep` placeholder so they are included in Git. Remove the placeholder when adding content to that directory.
 
